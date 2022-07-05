@@ -13,7 +13,7 @@ export default function Document() {
         <link rel="stylesheet" href="assets/css/slick.css" />
         <title>Rafi_E Portfolio</title>
       </Head>
-      <body>
+      <body >
         <Main />
         <NextScript />
         <script src="assets/js/jquery.min.js"></script>
